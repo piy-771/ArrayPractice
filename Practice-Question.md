@@ -21,7 +21,7 @@
 3. **Average of Array Elements:**
     - **Task:** Create a float array of size 7. Write a program to calculate the average of the elements in the array.
     - **Sample Input:** `[1.5f, 2.5f, 3.5f, 4.5f, 5.5f, 6.5f, 7.5f]`
-    - **Sample Output:** `Average = 4.7857143`
+    - **Sample Output:** `Average = 4.5`
 
 4. **Find Maximum Element:**
     - **Task:** Given an integer array, write a program to find and print the maximum element in the array.
