@@ -21,6 +21,6 @@ public class FindMinimumElement {
                 minimumElement = doubleArray[i];
             }
         }
-        System.out.println("minimumElement = " + minimumElement);
+        System.out.println("Minimum Element = " + minimumElement);
     }
 }
